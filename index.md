@@ -1,0 +1,10 @@
+1. api      管理 多个接口的;
+2. assets   存储静态文件,经过webpack打包;
+3 common    存储公共的文件，样式，方法; 
+4. components     创建组件;
+5. pages        每一个页面;
+6. router       路由;
+7. store        Vuex;
+8. utils        方法的封装;
+9.  App.vue     根组件;
+10. main.js     入口文件;
